@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/ahorcado",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
